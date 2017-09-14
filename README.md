@@ -1,2 +1,2 @@
-# TH_WorkSheet
-A Simple WorkSheet for employees time analysis
+# TH_TimeSheet
+A Simple TimeSheet for employees time analysis
